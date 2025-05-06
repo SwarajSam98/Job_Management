@@ -45,7 +45,7 @@ Users can sign up as either **Applicants** or **Recruiters**, and based on their
 ### 📝 Job Posting Form
 ![Add Job](Images/Add_Job.jpg)
 
-> ⚠️ Replace these placeholders with your own hosted images from GitHub or an image CDN.
+
 
 ---
 
